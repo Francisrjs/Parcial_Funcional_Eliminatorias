@@ -1,0 +1,2 @@
+# Parcial_Funcional_Eliminatorias
+Eliminatorias funcional
